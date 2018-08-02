@@ -1,0 +1,8 @@
+.card-footer button {
+    width: 80px;
+    font-weight: bold;
+}
+
+.fa-chevron-left:before{
+    margin-right: 4px;
+}
